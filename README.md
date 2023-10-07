@@ -1,4 +1,4 @@
-# Pomegranate-Classifier-using-CNN-
+# Pomegranate-Disease-Classifier-using-CNN-
 
 The dataset consists of images of pomegranate fruits belonging to three classes: healthy, bacterial disease, and fungal disease. An ML model is developed that classifies the fruit images into one of these classes. The development of a robust and accurate classification model will contribute to sustainable agriculture practices and assist farmers in making informed decisions for disease control measures.
 
